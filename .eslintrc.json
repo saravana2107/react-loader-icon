@@ -1,0 +1,25 @@
+{
+  "env": {
+    "amd": true,
+    "browser": true,
+    "commonjs": true,
+    "es6": true,
+    "node": false
+  },
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "extends": ["prettier", "prettier/flowtype", "prettier/react"]
+  },
+  "plugins": ["prettier", "react", "flowtype"],
+  "rules": {
+    "prettier/prettier": "error"
+  },
+  "settings": {
+    "ecmascript": 8,
+    "jsx": true
+  }
+}
