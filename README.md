@@ -59,6 +59,9 @@ export default App;
 * spinningBubbles
 * spokes
 
+## Demo
+![react-loader-icon demo](/react-loader-icon.gif)
+
 ## Tests
 
 ```
