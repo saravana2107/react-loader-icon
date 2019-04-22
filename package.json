@@ -1,6 +1,6 @@
 {
   "name": "react-loader-icon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "files": [
@@ -32,9 +32,18 @@
     "url": "git+https://github.com/saravana2107/react-loader-icon.git"
   },
   "keywords": [
-    "randomstring",
-    "random-string",
-    "random"
+    "react-loader-icon",
+    "react-loader",
+    "react-loading-icon",
+    "react-loading",
+    "react-spinner-icon",
+    "react-spinner",
+    "loader-icon",
+    "loader",
+    "loading-icon",
+    "loading",
+    "spinner-icon",
+    "spinner"
   ],
   "bugs": {
     "url": "https://github.com/saravana2107/react-loader-icon/issues"
